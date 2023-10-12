@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include <string>
 #include <fstream>
-#include "List.h"
-#include "VisaApplication.h"
+#include "List.h"                    // This is the library I don't understand
+#include "VisaApplication.h"         // "..."
 
 using namespace std;
 
